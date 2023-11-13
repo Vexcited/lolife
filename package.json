@@ -1,0 +1,20 @@
+{
+  "name": "lolife",
+  "version": "1.0.0",
+  "description": "A modular plugin and theme to use with Pengu.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "author": "Mikkel RINGAUD <mikkel@milescode.dev> (https://github.com/Vexcited)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "sass": "^1.69.5",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0",
+    "vite-plugin-mkcert": "^1.16.0"
+  }
+}
